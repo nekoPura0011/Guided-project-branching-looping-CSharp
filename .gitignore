@@ -9,6 +9,7 @@ obj/
 *.user
 *.suo
 *.userosscache
+*.sln
 
 # Build outputs
 *.dll
